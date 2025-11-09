@@ -10,7 +10,7 @@ Features:
     - Direct Gemini API prompt completion
     - LangChain prompt templating and structured output parsing
 
-Author: Your Name
+Author: Sandesh Kumar
 Date: 2025-11-05
 """
 

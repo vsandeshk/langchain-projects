@@ -150,7 +150,7 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Sandesh Kumar**  
 📅 *Created on:* November 5, 2025  
 💡 *Purpose:* Educational demo for using Gemini with LangChain  
 
